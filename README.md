@@ -1,0 +1,1 @@
+## **Forked from [Luke Smith's dwmblocks](https://github.com/lukesmithxyz/dwmblocks) and modified to my taste.**
